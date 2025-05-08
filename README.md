@@ -35,4 +35,8 @@ This is a mobile application designed to assist people with diabetes by providin
 ![App Demo](assets/images/image4.png)
 
 
+🤝 Contributors
+Omar Masalmah
+Yazeed Hamdan
+Mahmoud Hamdan
 
