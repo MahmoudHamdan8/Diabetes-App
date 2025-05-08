@@ -28,3 +28,11 @@ This is a mobile application designed to assist people with diabetes by providin
 - **Chat**: Firebase 
 - **Data Visualization**: Matplotlib / Flutter Charts
 
+
+![App Demo](assets/screens/image1.png)
+![App Demo](assets/screens/image2.png)
+![App Demo](assets/screens/image3.png)
+![App Demo](assets/screens/image4.png)
+
+
+
